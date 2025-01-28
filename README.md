@@ -15,10 +15,7 @@ Este projeto é uma aplicação web desenvolvida como parte dos desafios e teste
   - Cada participante receba um nome aleatório.
   - Não haja duplicação de resultados.
   - Não seja possível manipular o sorteio manualmente.
-
-### 3. **Controle de Resultados**
-- O sistema assegura que nenhum participante seja sorteado mais de uma vez.
-- Quando o sorteio é concluído, não restam participantes disponíveis para serem atribuídos.
+  - E não restam participantes disponíveis uma vez já sorteado.
 
 ## Benefícios
 - **Facilidade de Uso:** Uma interface simples e intuitiva para adicionar participantes e realizar o sorteio.
@@ -36,13 +33,3 @@ Este projeto é uma aplicação web desenvolvida como parte dos desafios e teste
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-   ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd amigo-secreto
-   ```
