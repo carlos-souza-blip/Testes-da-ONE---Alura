@@ -1,4 +1,4 @@
-# Challenge-ONE---Alura
+# Challenge-ONE--Alura
 # Aplicação Web - Sorteio de Amigo Secreto
 
 Este projeto é uma aplicação web desenvolvida como parte dos desafios e testes da ONE - Alura. A aplicação permite que os usuários organizem e realizem sorteios de Amigo Secreto de forma prática e segura, garantindo a imparcialidade dos resultados.
